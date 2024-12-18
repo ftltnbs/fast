@@ -1,0 +1,1 @@
+print("Yaniyosun Fuar=t Abi!")
